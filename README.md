@@ -64,3 +64,15 @@ Start the application
 **MongoDB**: MongoDB is a non-relational document database that provides support for JSON-like storage.
 
 
+
+<img src="https://github.com/PrinceKhadwal/Wanderlust-using-Backend/blob/main/screenshots/s1.png" />
+<img src="https://github.com/PrinceKhadwal/Wanderlust-using-Backend/blob/main/screenshots/s2.png" />
+<img src="https://github.com/PrinceKhadwal/Wanderlust-using-Backend/blob/main/screenshots/s3.png" />
+<img src="https://github.com/PrinceKhadwal/Wanderlust-using-Backend/blob/main/screenshots/s4.png" />
+<img src="https://github.com/PrinceKhadwal/Wanderlust-using-Backend/blob/main/screenshots/s5.png" />
+<img src="https://github.com/PrinceKhadwal/Wanderlust-using-Backend/blob/main/screenshots/s6.png" />
+<img src="https://github.com/PrinceKhadwal/Wanderlust-using-Backend/blob/main/screenshots/s7.png" />
+
+
+
+
