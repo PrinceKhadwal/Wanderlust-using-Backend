@@ -72,7 +72,7 @@ Start the application
 <img src="https://github.com/PrinceKhadwal/Wanderlust-using-Backend/blob/main/screenshots/s5.png" />
 <img src="https://github.com/PrinceKhadwal/Wanderlust-using-Backend/blob/main/screenshots/s6.png" />
 <img src="https://github.com/PrinceKhadwal/Wanderlust-using-Backend/blob/main/screenshots/s7.png" />
-
+<img src="https://github.com/PrinceKhadwal/Wanderlust-using-Backend/blob/main/screenshots/s8.png" />
 
 
 
