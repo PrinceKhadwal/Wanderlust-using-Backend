@@ -28,13 +28,13 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 Clone the project
 
 ```bash
-  git clone https://https://github.com/PrinceKhadwal/Wanderlust
+  git clone https://https://github.com/PrinceKhadwal/Wanderlust-using-Backend
 ```
 
 Go to the project directory
 
 ```bash
-  cd Wanderlust
+  cd Wanderlust-using-Backend
 ```
 
 Installing the packages
